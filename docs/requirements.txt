@@ -14,3 +14,4 @@ sphinx-design
 sphinx-inline-tabs
 # sphinx-multiversion
 git+https://github.com/Holzhaus/sphinx-multiversion.git
+fonttools>=4.43.0 # not directly required, pinned by Snyk to avoid a vulnerability
